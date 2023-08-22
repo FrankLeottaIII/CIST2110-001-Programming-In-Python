@@ -4,48 +4,63 @@ Coursework for the Programming in Python Course at Stockton University Fall 2023
 
 ## Course Description
 
-This course introduces programming and scripting in python for solving business problems. The students will be exposed to data types, control structures, input/output, graphical user interfaces, and data analysis.
+This course is an introductory programming course for solving problems using Python. Students will be exposed to data types, control structures, input/output, graphical user interfaces, and data access & exploration. Testing and debugging techniques are used to find and prevent errors from getting into the code. Assignments give hands-on experience in application development for web, games, and data analytics using an integrated development environment.
 
-## Course Objectives
-After this course Students should be able to grasp basic Python concepts including data types, control structures, input/output, graphical user interfaces, and data analysis. Students will be able to write Python programs to solve business problems.
+## Course Objectives - Mapping to CIST Program Learning Outcomes
+This course supports the following CIST Program Learning Outcomes and corresponding Performance Indicators:
+- CIST. 2: An ability to design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program's discipline.
+  - CIST.2.a: Students will design a computing-based solution to meet a given set of computing requirements.
+  - CIST.2.b: Students will implement a computing-based solution to meet a given set of computing requirements.
+  - CIST.2.c: Students will evaluate a computing-based solution to meet a given set of computing requirements
 
 ## Rough Schedule
-| Week | Topic | Reading | Assignment |
-| --- | --- | --- | --- |
-| 1 | Introduction to Python | Chapter 1 | Lab 1 |
-| 2 | Data Types and Expressions | Chapter 2 | Lab 2 |
-| 3 | Control Structures | Chapter 3 | Lab 3 |
-| 4 | Functions | Chapter 4 | Lab 4 |
-| 5 | Modules and Packages | Chapter 5 | Lab 5 |
-| 6 | Files and Exceptions | Chapter 6 | Lab 6 |
-| 7 | Classes and Object-Oriented Programming | Chapter 7 | Lab 7 |
-| 8 | Midterm Exam | | |
-| 9 | GUI Programming | Chapter 8 | Lab 8 |
-| 10 | Data Analysis and Visualization | Chapter 9 | Lab 9 |
-| 11 | Web Programming | Chapter 10 | Lab 10 |
-| 12 | Database Programming | Chapter 11 | Lab 11 |
-| 13 | Final Exam | | |
+| Week # | Class Date (Tuesday) | Class Date (Thursday) | Chapter | Assignment |
+|--------|---------------------|----------------------|---------|--------------|
+| 1      | Sep 5               | Sep 7                | Chapter 1 - Introduction to Python and setting up your environment | Lab 1 | 
+| 2      | Sep 12              | Sep 14               | Chapter 2 - Write your first program | Lab 2 |
+| 3      | Sep 19              | Sep 21               | Chapter 3 - Code Control Statements | Lab 3, HW 1 |
+| 4      | Sep 26              | Sep 28               | Chapter 4 - Define and use functins and modules | Lab 4, HW 2 |
+| 5      | Oct 3               | Oct 5                | Chapter 5 - Testing and Debugging | Project 1 |
+| 6      | Oct 10              | Oct 12               | Chapter 6 - Lists and Tuples | Lab 5, HW 3 |
+| 7      | Oct 17              | Oct 19               | Chapter 7 - File I/O | Lab 6, HW 4 |
+| 8      | Oct 24 - NO CLASS   | Oct 26               | Chapter 8 - Handling Exceptions | Lab 7, HW 5 |
+| 9      | Oct 31              | Nov 2                | Chapter 9,10 - Working with Numbers & Strings| Lab 8, HW 7 |
+| 10     | Nov 7               | Nov 9                | Chapter 11 - Working with Dates and Times | Project 2 |
+| 11     | Nov 14              | Nov 16               | Chapter 12 - Working with Directories | Lab 9, HW 8 |
+| 12     | Nov 21              | Nov 23 - NO CLASS    | Chapter 14 - Classes and Objects | Lab 10, HW 9 |
+| 13     | Nov 30              | Dec 1                | Chapter 16 - Designing Classes following OOP Principles | Lab 11, HW 10 |
+| 14     | Dec 5               | Dec 7                | Chapter 17 - Working with Databases | Project 3 |
+| 15     | Dec 13              | Dec 15               | Finals Week | Project 3 |
+
 
 ## Grading
-| Item | Points |
-| --- | --- |
-| Labs | 30% |
-| Midterm Exam | 30% |
-| Final Exam | 40% |
-
+| Item | Percentage |
+| ---  | --- |
+| Labs 10 @ 2 points         | 20% |
+| Homework 10 @ 3 points     | 30% |
+| Projects 3 @ 15 points     | 45% |
+| Participation & Attendance |  5% |
+| Total                      | 100% |
 ## Grading Scale
 | Grade | Range |
 | --- | --- |
-| A | 90-100 |
-| B | 80-89 |
-| C | 70-79 |
-| D | 60-69 |
-| F | 0-59 |
+| A | 93-100 |
+| A- | 90-93 |
+| B+ | 87-89 |
+| B  | 83-86 |
+| B- | 80-82 |
+| C+ | 77-79 |
+| C  | 73-76 |
+| C- | 70-72 |
+| D+ | 67-69 |
+| D  | 63-66 |
+| D- | 60-62 |
+| F  | 0-59 |
 
 ### Course Textbook
 Stockton Reccomends the following textbook however the topics covered in this course are not specific to any one textbook. Students are free to use any textbook or online resource they choose.
-9781943872749 Print textbook –  Murachs's Python Programming 2nd Edition
-9781943872756 EBook - Murachs's Python Programming 2nd Edition
+- 9781943872749 Print textbook –  Murachs's Python Programming 2nd Edition
+- 9781943872756 EBook - Murachs's Python Programming 2nd Edition
 
 ### Course Software
 Students are recommended to use VSCode as their IDE for this course. VSCode is available for free at https://code.visualstudio.com/. Students are free to use any IDE they choose.
@@ -63,30 +78,6 @@ It is recommended that students install a Python virtual environment. This will 
 We will be using pyenv to manage our virtual environments
 We will be using pip3 to install packages. More information on pip3 can be found here https://pip.pypa.io/en/stable/
 
-## Course Policies
-### Attendance
-Attendance is mandatory. Students are expected to attend all classes. If a student misses a class, it is the student’s responsibility to obtain the material covered in class from a classmate. If a student misses a class due to a medical or family emergency, the student must provide documentation to the instructor. If a student misses more than 3 classes, the student will be withdrawn from the course.
-
-### Academic Integrity
-Students are expected to adhere to the highest standards of academic integrity. Cheating, plagiarism, and other forms of academic dishonesty will not be tolerated. Students are expected to be familiar with the University’s Academic Integrity Policy, which can be found at http://intraweb.stockton.edu/eyos/page.cfm?siteID=78&pageID=11.
-
-### Accommodations for Students with Disabilities
-Stockton University is committed to providing equal access to all of its programs and services for persons with disabilities. Students with disabilities who may need classroom accommodations are encouraged to register with the Office of Disability Services (ODS) during the first week of class. ODS is located in J-204 and can be reached by phone at 609-652-4988 or by email LAP@stockton.edu
-
-### Religious Holidays
-Students who will miss class due to a religious holiday should notify the instructor during the first two weeks of class. Students will be permitted to make up work missed due to a religious holiday.
-
-### Emergency Closings
-In the event of an emergency closing, students should check the University’s website at www.stockton.edu or call the University’s emergency hotline at 609-652-4700 for information regarding the resumption of classes.
-
-### Inclement Weather
-In the event of inclement weather, students should check the University’s website at www.stockton.edu or call the University’s emergency hotline at 609-652-4700 for information regarding the resumption of classes.
-
-### Grading
-Coursework is expected to be submitted on blackboard by the due date.
-
 ### Github
-Students are expected to utilize git and github for version control and submission of coursework. Students should create a github account and email the instructor their username. (Assignment 1)
+Students are expected to utilize git and github for version control throughout the course. Students should create a github account and email the instructor their username. (Assignment 1)
 The Github Student Developer Pack is available to students at https://education.github.com/pack
-
-### 
