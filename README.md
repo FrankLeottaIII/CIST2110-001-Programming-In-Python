@@ -28,7 +28,7 @@ This course supports the following CIST Program Learning Outcomes and correspond
 | 10     | Nov 7               | Nov 9                | Chapter 11 - Working with Dates and Times | Project 2 |
 | 11     | Nov 14              | Nov 16               | Chapter 12 - Working with Directories | Lab 9, HW 8 |
 | 12     | Nov 21              | Nov 23 - NO CLASS    | Chapter 14 - Classes and Objects | Lab 10, HW 9 |
-| 13     | Nov 30              | Dec 1                | Chapter 16 - Designing Classes following OOP Principles | Lab 11, HW 10 |
+| 13     | Nov 28              | Dec 30               | Chapter 16 - Designing Classes following OOP Principles | Lab 11, HW 10 |
 | 14     | Dec 5               | Dec 7                | Chapter 17 - Working with Databases | Project 3 |
 | 15     | Dec 13              | Dec 15               | Finals Week | Project 3 |
 
