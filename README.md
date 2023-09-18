@@ -17,8 +17,8 @@ This course supports the following CIST Program Learning Outcomes and correspond
 | Week # | Class Date (Tuesday) | Class Date (Thursday) | Chapter | Assignment |
 |--------|---------------------|----------------------|---------|--------------|
 | 1      | Sep 5               | Sep 7                | Chapter 1 - Introduction to Python and setting up your environment |  | 
-| 2      | Sep 12              | Sep 14               | Chapter 2 - Write your first program | Lab 1 & 2 |
-| 3      | Sep 19              | Sep 21               | Chapter 3 - Code Control Statements | Lab 3, HW 1 |
+| 2      | Sep 12              | Sep 14               | Chapter 2 - Write your first program | Lab 1  |
+| 3      | Sep 19              | Sep 21               | Chapter 3 - Code Control Statements | Lab 2 & 3, HW 1 |
 | 4      | Sep 26              | Sep 28               | Chapter 4 - Define and use functions and modules | Lab 4, HW 2 |
 | 5      | Oct 3               | Oct 5                | Chapter 5 - Testing and Debugging | Project 1 |
 | 6      | Oct 10              | Oct 12               | Chapter 6 - Lists and Tuples | Lab 5, HW 3 |
