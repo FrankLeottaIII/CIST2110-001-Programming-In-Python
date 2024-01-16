@@ -1,7 +1,7 @@
 # CIST2110-001-Programming-In-Python
 
 Coursework for the Programming in Python Course at Stockton University Fall 2023.
-# NOTICE: This was created solely my Professor Greg Walsh.  This should be Private for obvious reasons, and is only a personal reference guide.
+# NOTICE: This was created solely my Professor Greg Walsh.  This is only a personal reference guide.  I highly recommend you take his class.
 
 ## Course Description
 
